@@ -1,0 +1,13 @@
+body {
+  background-color: #666; }
+
+#header {
+  color: pink;
+  font-size: 150%;
+  opacity: 0.6;
+  -webkit-box-shadow: 0 0 10px #000;
+          box-shadow: 0 0 10px #000;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }

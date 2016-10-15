@@ -1,0 +1,2 @@
+Cструктура проекта дополнительно:
+http://pugofka.com/blog/technology/the-prepared-starting-package-front-end-development-on-gulp/
